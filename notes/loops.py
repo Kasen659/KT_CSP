@@ -16,3 +16,14 @@ while count != goose:
 
 print(goose)
 
+number = random.randint(1,20)
+
+while True:
+    guess = int(input("tell me a number between 1 and 20"))
+    if guess == number:
+        print(f"you win the number is {number}")
+        break 
+    elif guess < number:
+        print("guess higher")
+    else:
+        print("guess lower")
