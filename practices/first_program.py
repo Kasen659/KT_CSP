@@ -2,4 +2,4 @@
 
 job = input("what is your job?: ")
 
-print("my )
+print("my job is"(input))
