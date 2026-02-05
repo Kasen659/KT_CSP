@@ -1,0 +1,2 @@
+def income(price):
+    return 

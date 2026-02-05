@@ -10,4 +10,4 @@ apples = 27
 
 friends = 8
 
-print("Each friend gets", apples//friends "and i get", apples%friends, "left over ")
+print("Each friend gets", apples//friends, "and i get", apples%friends, "left over")
