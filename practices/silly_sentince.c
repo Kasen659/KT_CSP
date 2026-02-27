@@ -17,7 +17,7 @@ int main(){
     scanf("%d", &age);
     
     strcat(sentince,"my name is " );
-    str
+    strcat()
     
     printf("My name is %s and im %d years old. And i like to %s.\n", person, age, action);
     
