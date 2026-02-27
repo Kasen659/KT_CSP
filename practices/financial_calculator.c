@@ -22,6 +22,7 @@ int main(){
     printf("\nWhat do you spend montly on transport:");
     scanf("%f", &transport);
 
-    printf("\n")
+    printf("\n");
    
+    return 0;
 }    

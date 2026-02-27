@@ -1,3 +1,4 @@
+//KT 6th silly sentince
 #include <stdio.h>
 #include <string.h>
 
@@ -17,7 +18,6 @@ int main(){
     scanf("%d", &age);
     
     strcat(sentince,"my name is " );
-    strcat()
     
     printf("My name is %s and im %d years old. And i like to %s.\n", person, age, action);
     
