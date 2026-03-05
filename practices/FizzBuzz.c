@@ -3,15 +3,14 @@
 
 int main(){
 for(int i = 1; i <= 50; i++){
-    printf("%d\n", i);
     if(i % 3 == 0){
         printf("Fizz\n");
     } else if(i % 5 == 0){
         printf("Buzz\n");
     } else if(i % 15 == 0){
-        printf("fizzbuzz\n")
+        printf("fizzbuzz\n");
     } else{
-        printf("%di\n)
+        printf("%d\n", i);
     }
 }
 
