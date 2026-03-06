@@ -8,8 +8,12 @@ int main(){
     scanf("%d", &time);
 
     if (time >= 16){
-        printf("Good evening\n")
-    }else if  
+        printf("Good evening\n");
+    }else if (time >= 12){
+        printf("Good afternoon!\n");
+    }else{
+        printf("Goodmorning\n");
+    }
         
     
 
